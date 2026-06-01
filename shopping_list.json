@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"id": 1, "name": "geladeira", "local": "loja", "added": "2026-05-29", "bought": false},
+    {"id": 2, "name": "shampoo", "local": "supermercado", "added": "2026-06-01", "bought": false},
+    {"id": 3, "name": "ovo", "local": "supermercado", "added": "2026-06-01", "bought": false}
+  ]
+}
