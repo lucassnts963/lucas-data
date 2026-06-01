@@ -1,6 +1,3 @@
 {
-  "items": [
-    {"id": 1, "name": "cadeado portão cozinha", "local": "loja", "added": "2026-06-01", "priority": "médio"},
-    {"id": 2, "name": "cadeado porta frente", "local": "loja", "added": "2026-06-01", "priority": "médio"}
-  ]
+  "items": []
 }
