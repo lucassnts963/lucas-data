@@ -4,6 +4,7 @@
     {"id": 2, "name": "shampoo", "local": "supermercado", "added": "2026-06-01", "bought": false},
     {"id": 3, "name": "ovo", "local": "supermercado", "added": "2026-06-01", "bought": false},
     {"id": 4, "name": "cadeado portão cozinha", "local": "ferragem", "added": "2026-06-01", "bought": false},
-    {"id": 5, "name": "cadeado porta frente", "local": "ferragem", "added": "2026-06-01", "bought": false}
+    {"id": 5, "name": "cadeado porta frente", "local": "ferragem", "added": "2026-06-01", "bought": false},
+    {"id": 6, "name": "sabão para lavar roupa", "local": "supermercado", "added": "2026-06-01", "bought": false}
   ]
 }
