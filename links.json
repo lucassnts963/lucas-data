@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Rocketseat",
+    "description": "A maior plataforma de ensino de programação do Brasil. Do zero ao full-stack com projetos reais.",
+    "url": "#",
+    "category": "programming",
+    "tags": ["JavaScript", "React", "Node.js", "Full-stack"],
+    "icon": "🚀",
+    "highlight": true
+  },
+  {
+    "id": 2,
+    "title": "Alura",
+    "description": "Cursos de tecnologia, design e negócios. Assinatura dá acesso a todos os cursos da plataforma.",
+    "url": "#",
+    "category": "programming",
+    "tags": ["Python", "Data Science", "Mobile", "DevOps"],
+    "icon": "📚"
+  },
+  {
+    "id": 3,
+    "title": "Origamid",
+    "description": "Cursos de UI Design, Front-end e WordPress. Foco total em design e código andando juntos.",
+    "url": "#",
+    "category": "design",
+    "tags": ["UI Design", "HTML/CSS", "JavaScript", "WordPress"],
+    "icon": "🎯",
+    "highlight": true
+  },
+  {
+    "id": 4,
+    "title": "Danki Code",
+    "description": "Cursos práticos de desenvolvimento web, mobile e marketing digital.",
+    "url": "#",
+    "category": "programming",
+    "tags": ["PHP", "MySQL", "WordPress", "Marketing"],
+    "icon": "💡"
+  },
+  {
+    "id": 5,
+    "title": "DeepLearning.AI",
+    "description": "Cursos do Andrew Ng. O melhor ponto de partida para IA e Machine Learning.",
+    "url": "#",
+    "category": "ai",
+    "tags": ["Machine Learning", "Deep Learning", "Python"],
+    "icon": "🧠"
+  },
+  {
+    "id": 6,
+    "title": "Curso em Vídeo",
+    "description": "Cursos 100% gratuitos de programação, Excel, Photoshop e mais. Professor Gustavo Guanabara.",
+    "url": "#",
+    "category": "programming",
+    "tags": ["Python", "JavaScript", "PHP", "MySQL", "Grátis"],
+    "icon": "🎓",
+    "highlight": true
+  },
+  {
+    "id": 7,
+    "title": "Figma",
+    "description": "Ferramenta de design colaborativo. Essencial para prototipar interfaces antes de codar.",
+    "url": "#",
+    "category": "design",
+    "tags": ["UI Design", "Prototipação", "Colaborativo", "Grátis"],
+    "icon": "🎨"
+  },
+  {
+    "id": 8,
+    "title": "Notion",
+    "description": "Organize projetos, notas e documentação. Meu segundo cérebro digital.",
+    "url": "#",
+    "category": "tools",
+    "tags": ["Produtividade", "Documentação", "Gestão"],
+    "icon": "📝"
+  },
+  {
+    "id": 9,
+    "title": "Vercel",
+    "description": "Hospedagem gratuita para projetos front-end. Deploy com um git push.",
+    "url": "#",
+    "category": "tools",
+    "tags": ["Deploy", "Next.js", "Front-end", "Grátis"],
+    "icon": "▲"
+  },
+  {
+    "id": 10,
+    "title": "Sebrae Cursos",
+    "description": "Cursos gratuitos de empreendedorismo, finanças e gestão para pequenos negócios.",
+    "url": "#",
+    "category": "business",
+    "tags": ["Empreendedorismo", "Finanças", "Gestão", "Grátis"],
+    "icon": "🏢"
+  },
+  {
+    "id": 11,
+    "title": "Full Cycle",
+    "description": "Curso completo de arquitetura de software, Docker, Kubernetes e microsserviços.",
+    "url": "#",
+    "category": "programming",
+    "tags": ["Docker", "K8s", "Arquitetura", "Go"],
+    "icon": "⚙️"
+  },
+  {
+    "id": 12,
+    "title": "AWS Skill Builder",
+    "description": "Cursos oficiais da AWS. Do básico ao avançado em cloud computing.",
+    "url": "#",
+    "category": "tools",
+    "tags": ["AWS", "Cloud", "DevOps", "Grátis"],
+    "icon": "☁️"
+  }
+]
