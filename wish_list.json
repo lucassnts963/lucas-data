@@ -3,6 +3,7 @@
     {"id": 1, "name": "construir uma casa", "added": "2026-06-01", "priority": "alto"},
     {"id": 2, "name": "consertar ar-condicionado do carro", "added": "2026-06-01", "priority": "médio"},
     {"id": 3, "name": "pintura do carro", "added": "2026-06-01", "priority": "médio"},
-    {"id": 4, "name": "refazer estofado do carro", "added": "2026-06-01", "priority": "médio"}
+    {"id": 4, "name": "refazer estofado do carro", "added": "2026-06-01", "priority": "médio"},
+    {"id": 5, "name": "sofá", "added": "2026-06-01", "priority": "médio"}
   ]
 }
