@@ -9,6 +9,7 @@
     {"id": 7, "name": "tênis da esposa", "added": "2026-06-01", "priority": "médio"},
     {"id": 8, "name": "escrivaninha com cadeira", "added": "2026-06-03", "priority": "médio"},
     {"id": 9, "name": "MacBook", "added": "2026-06-03", "priority": "baixo"},
-    {"id": 10, "name": "mesa de jantar", "added": "2026-06-03", "priority": "médio"}
+    {"id": 10, "name": "mesa de jantar", "added": "2026-06-03", "priority": "médio"},
+    {"id": 11, "name": "celular mais potente para IA", "added": "2026-06-03", "priority": "baixo"}
   ]
 }
