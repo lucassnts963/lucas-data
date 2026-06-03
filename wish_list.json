@@ -6,6 +6,7 @@
     {"id": 4, "name": "refazer estofado do carro", "added": "2026-06-01", "priority": "médio"},
     {"id": 5, "name": "sofá", "added": "2026-06-01", "priority": "médio"},
     {"id": 6, "name": "tênis", "added": "2026-06-01", "priority": "médio"},
-    {"id": 7, "name": "tênis da esposa", "added": "2026-06-01", "priority": "médio"}
+    {"id": 7, "name": "tênis da esposa", "added": "2026-06-01", "priority": "médio"},
+    {"id": 8, "name": "escrivaninha com cadeira", "added": "2026-06-03", "priority": "médio"}
   ]
 }
