@@ -9,6 +9,7 @@
     {"id": 7, "title": "Portfólio: Maintenance Prediction", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
     {"id": 8, "title": "Portfólio: Energy Consumption", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
     {"id": 9, "title": "Portfólio: Digital Shift Handover", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
-    {"id": 10, "title": "Portfólio: Production Bottleneck", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"}
+    {"id": 10, "title": "Portfólio: Production Bottleneck", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
+    {"id": 11, "title": "Consertar tomada do banheiro", "category": "domestic", "project": null, "priority": 2, "added": "2026-06-06", "status": "pending"}
   ]
 }
