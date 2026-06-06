@@ -9,6 +9,7 @@
     {"id": 7, "name": "arroz", "local": "supermercado", "added": "2026-06-02", "bought": false},
     {"id": 8, "name": "2 galão de água 20L", "local": "supermercado", "added": "2026-06-02", "bought": false},
     {"id": 9, "name": "vassoura", "local": "supermercado", "added": "2026-06-03", "bought": false},
-    {"id": 10, "name": "pasta de dente", "local": "supermercado", "added": "2026-06-03", "bought": false}
+    {"id": 10, "name": "pasta de dente", "local": "supermercado", "added": "2026-06-03", "bought": false},
+    {"id": 11, "name": "tela para as janelas", "local": "ferragem", "added": "2026-06-06", "bought": false}
   ]
 }
