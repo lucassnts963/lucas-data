@@ -14,6 +14,7 @@
     {"id": 12, "title": "Consertar ferrolhos e instalar telas — 3 janelas (quarto, sala, cozinha)", "category": "domestic", "project": null, "priority": 2, "added": "2026-06-06", "status": "pending"},
     {"id": 13, "title": "Fazer cópia das chaves da casa", "category": "domestic", "project": null, "priority": 2, "added": "2026-06-06", "status": "pending"},
     {"id": 14, "title": "Passar WD-40 nas portas e janelas", "category": "domestic", "project": null, "priority": 3, "added": "2026-06-06", "status": "pending"},
-    {"id": 15, "title": "Consertar chave do banheiro", "category": "domestic", "project": null, "priority": 2, "added": "2026-06-06", "status": "pending"}
+    {"id": 15, "title": "Consertar registro do chuveiro", "category": "domestic", "project": null, "priority": 2, "added": "2026-06-06", "status": "pending"},
+    {"id": 16, "title": "Limpeza do ventilador", "category": "domestic", "project": null, "priority": 3, "added": "2026-06-06", "status": "pending"}
   ]
 }
