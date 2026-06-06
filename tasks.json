@@ -1,11 +1,11 @@
 {
   "tasks": [
-    {"id": 1, "title": "Criar canal YouTube", "category": "freelance", "project": "Canal YouTube", "priority": 0, "added": "2026-06-06", "status": "pending"},
+    {"id": 1, "title": "Criar canal YouTube", "category": "freelance", "project": "Canal YouTube", "priority": 1, "added": "2026-06-06", "status": "pending"},
     {"id": 2, "title": "Criar projeto standalone content-pipeline", "category": "freelance", "project": "Content Pipeline", "priority": 1, "added": "2026-06-06", "status": "pending"},
     {"id": 3, "title": "Sistema de Modos e Agentes Jarvis — branding visual + 17 agentes catalogados", "category": "freelance", "project": "Jarvis AI", "priority": 2, "added": "2026-06-06", "status": "pending"},
     {"id": 4, "title": "Editor gráfico de apresentações HTML — SlideForge", "category": "freelance", "project": "SlideForge", "priority": 2, "added": "2026-06-06", "status": "in_progress"},
     {"id": 5, "title": "Criar placa para frente de casa — serviço", "category": "domestic", "project": null, "priority": 2, "added": "2026-06-06", "status": "pending"},
-    {"id": 6, "title": "Portfólio: OEE Dashboard", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
+    {"id": 6, "title": "Portfólio: OEE Dashboard", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 0, "added": "2026-06-06", "status": "pending"},
     {"id": 7, "title": "Portfólio: Maintenance Prediction", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
     {"id": 8, "title": "Portfólio: Energy Consumption", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
     {"id": 9, "title": "Portfólio: Digital Shift Handover", "category": "freelance", "project": "Portfólio elucas.dev", "priority": 3, "added": "2026-06-06", "status": "pending"},
