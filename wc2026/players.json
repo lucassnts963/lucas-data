@@ -6202,5 +6202,137 @@
       "position": "2DF",
       "name": "Jakhongir Urozov"
     }
+  ],
+  "Curaçao": [
+    {
+      "number": "1",
+      "position": "GK",
+      "name": "Eloy Room"
+    },
+    {
+      "number": "2",
+      "position": "DF",
+      "name": "Shurandy Sambo"
+    },
+    {
+      "number": "3",
+      "position": "DF",
+      "name": "Juriën Gaari"
+    },
+    {
+      "number": "4",
+      "position": "DF",
+      "name": "Roshon van Eijma"
+    },
+    {
+      "number": "5",
+      "position": "DF",
+      "name": "Sherel Floranus"
+    },
+    {
+      "number": "6",
+      "position": "MF",
+      "name": "Godfried Roemeratoe"
+    },
+    {
+      "number": "7",
+      "position": "MF",
+      "name": "Juninho Bacuna"
+    },
+    {
+      "number": "8",
+      "position": "MF",
+      "name": "Livano Comenencia"
+    },
+    {
+      "number": "9",
+      "position": "FW",
+      "name": "Jürgen Locadia"
+    },
+    {
+      "number": "10",
+      "position": "MF",
+      "name": "Leandro Bacuna"
+    },
+    {
+      "number": "11",
+      "position": "FW",
+      "name": "Jeremy Antonisse"
+    },
+    {
+      "number": "12",
+      "position": "FW",
+      "name": "Sontje Hansen"
+    },
+    {
+      "number": "13",
+      "position": "FW",
+      "name": "Tyrese Noslin"
+    },
+    {
+      "number": "14",
+      "position": "FW",
+      "name": "Kenji Gorré"
+    },
+    {
+      "number": "15",
+      "position": "MF",
+      "name": "Ar'jany Martha"
+    },
+    {
+      "number": "16",
+      "position": "FW",
+      "name": "Jearl Margaritha"
+    },
+    {
+      "number": "17",
+      "position": "FW",
+      "name": "Brandley Kuwas"
+    },
+    {
+      "number": "18",
+      "position": "DF",
+      "name": "Armando Obispo"
+    },
+    {
+      "number": "19",
+      "position": "FW",
+      "name": "Gervane Kastaneer"
+    },
+    {
+      "number": "20",
+      "position": "DF",
+      "name": "Joshua Brenet"
+    },
+    {
+      "number": "21",
+      "position": "MF",
+      "name": "Tahith Chong"
+    },
+    {
+      "number": "22",
+      "position": "MF",
+      "name": "Kevin Felida"
+    },
+    {
+      "number": "23",
+      "position": "DF",
+      "name": "Riechedly Bazoer"
+    },
+    {
+      "number": "24",
+      "position": "DF",
+      "name": "Deveron Fonville"
+    },
+    {
+      "number": "25",
+      "position": "GK",
+      "name": "Tyrick Bodak"
+    },
+    {
+      "number": "26",
+      "position": "GK",
+      "name": "Trevor Doornbusch"
+    }
   ]
 }
